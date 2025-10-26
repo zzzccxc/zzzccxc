@@ -6,7 +6,7 @@ I actually know :
 - Cisco configuration (switches, routers, CLI basics)
 - Linux and Windows Server management
 - Network monitoring (Zabbix, PRTG, Wireshark)
-Bash, PowerShell
+- Bash, PowerShell
 - IT security fundamentals (firewalls, updates, VPN)
 
 *I'm currently learning and improving my skills in network administration, system management, and IT security.*
