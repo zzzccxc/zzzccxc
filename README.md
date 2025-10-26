@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, call me klopi.
 
-<!--
-**zzzccxc/zzzccxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I actually know :
 
-Here are some ideas to get you started:
+- Basic network administration (LAN/WAN, VLAN, DHCP, DNS, VPN)
+- Cisco configuration (switches, routers, CLI basics)
+- Linux and Windows Server management
+- Network monitoring (Zabbix, PRTG, Wireshark)
+Bash, PowerShell
+- IT security fundamentals (firewalls, updates, VPN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I'm currently learning and improving my skills in network administration, system management, and IT security.*
+
+I also do a bit of coding but just the essential : CSS HTML JS and Python
