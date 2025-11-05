@@ -1,14 +1,14 @@
-Hi, call me klopi.
+Hello,
+I’m a tech enthusiast.
+I’m a beginner in system administration with a solid background in networking.
+I have experience configuring Cisco devices (switches, routers, basic CLI).
+I can manage both Linux and Windows servers.
+I’m familiar with network monitoring tools (Zabbix, PRTG, Wireshark).
+I know Bash and PowerShell scripting, and I have a good understanding of IT security fundamentals (firewalls, updates, VPNs).
 
-I actually know :
+I’m currently learning and improving my skills.
 
-- Basic network administration (LAN/WAN, VLAN, DHCP, DNS, VPN)
-- Cisco configuration (switches, routers, CLI basics)
-- Linux and Windows Server management
-- Network monitoring (Zabbix, PRTG, Wireshark)
-- Bash, PowerShell
-- IT security fundamentals (firewalls, updates, VPN)
+I also do a bit of coding, focusing on the essentials: HTML, CSS, JavaScript, and Python.
+I’m also familiar with YAML, JSON, and SQL for automation and configuration tasks
 
-*I'm currently learning and improving my skills in network administration, system management, and IT security.*
-
-I also do a bit of coding but just the essential : CSS HTML JS and Python
+You can talk to me in : French (native) English (C1) and korean (A1)
